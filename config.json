@@ -1,7 +1,7 @@
 {
-    "COINBASE_API_KEY": "YOUR-API-KEY",
-    "COINBASE_API_SECRET": "YOUR-COINBASE-SECRET",
-    "COINBASE_API_PASSPHRASE": "YOUR-COINBASE-PASSPHRASE",
+    "COINBASE_API_KEY": "e5f2358f82d09b360f25105590cf8c08",
+    "COINBASE_API_SECRET": "NYSGAtQSgnR7VJVKwdfXf8YZjIgAhFsLeMtiWWjyiLeGoQb1AMhH/1gevWN+rsFiAI3PlU8dtLMUD9Af60ykHg==",
+    "COINBASE_API_PASSPHRASE": "MayTheForceBeWithYou!",
     "COINBASE_API_URL": "https://api.pro.coinbase.com",
     "COINBASE_SANDBOX_API_URL": "https://api-public.sandbox.pro.coinbase.com"
 }
