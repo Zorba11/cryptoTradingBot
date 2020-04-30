@@ -10,7 +10,8 @@ class HistoricalService {
     }
 
     async getData() {
-        this.createRequests();
+        const interval = this.createRequests();
+        
     //   const results = await this.client.getProductHistoricRates(this.product, {
     //             start: this.start,
     //             end: this.end,
